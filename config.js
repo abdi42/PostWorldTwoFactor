@@ -1,0 +1,2 @@
+export ACCOUNT_SECURITY_API_KEY='6P3HjgV5bgi6aFd5MCQByAdjo17dt1dj'
+export PORT=3000
